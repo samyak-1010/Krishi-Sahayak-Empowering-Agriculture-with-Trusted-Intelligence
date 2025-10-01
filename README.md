@@ -26,7 +26,8 @@ The tool is able to work on a total of 144 different types of crops (potato, mai
 - **Key Innovation**: Hyperlocal, explainable insights with transparent reasoning.
 
 **Example Output:**
-![alt text](Crops_insight.png)
+<img width="1919" height="887" alt="image" src="https://github.com/user-attachments/assets/e86a4579-f379-4f14-b05e-61d4ab745024" />
+
 
 ---
 
@@ -40,7 +41,8 @@ The model is trained on 20,000+ crop leaf disease images and can classify over 1
 - **Key Innovation**: Multi-modal (image + text) reasoning with source citations.
 
 **Example Output:**
-![alt text](Crops_disease.png)
+<img width="1905" height="927" alt="image" src="https://github.com/user-attachments/assets/81a6f7bd-5e5e-4836-b5bd-eaa017f92a1a" />
+
 
 ---
 
@@ -53,7 +55,8 @@ The model is trained on 20,000+ crop leaf disease images and can classify over 1
 
 **Example Output:**
 
-![alt text](yield_insight.png)
+<img width="1849" height="926" alt="image" src="https://github.com/user-attachments/assets/f409a608-6ece-4cd0-b864-cd113c68d51b" />
+
 
 Terminal output 
 
